@@ -1,0 +1,2 @@
+# .bat は CRLF のまま保存する（GitHub の raw から落としても CRLF になるように、変換させない）
+*.bat -text
